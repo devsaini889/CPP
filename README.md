@@ -50,6 +50,6 @@ Contributions are welcome! If you want to add a program:
 
 - **Name:** Dev Saini  
 - **Role:** AIML Engineer | C++ & Python Programmer  
-- **LinkedIn:** [linkedin.com/in/devsaini](https://linkedin.com/in/devsaini)
+- **LinkedIn:** [linkedin.com/in/devsaini](https://www.linkedin.com/in/ds0752607/)
 
 ⭐ If you find this repository helpful, give it a star!
